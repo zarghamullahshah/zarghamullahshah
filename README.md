@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarghamullahshah&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarghamullahshah&layout=compact&theme=radical" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarghamullahshah&show_icons=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarghamullahshah&layout=compact&title_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de" alt="Top languages" height="165" />
 </p>
 
 ### 📫 Connect With Me
