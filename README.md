@@ -24,6 +24,10 @@
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,dart,kotlin,git,github&theme=light" alt="Tech stack: PHP, Laravel, JavaScript, HTML, CSS, MySQL, Flutter, Dart, Kotlin, Git, GitHub" />
+</p>
+
 **Languages:** PHP · JavaScript · HTML/CSS · Apex · SQL · Dart · Kotlin
 **Frameworks & Platforms:** Laravel · Salesforce (Admin, Apex, LWC, Experience Cloud) · Flutter · MySQL
 **Tools:** Git & GitHub · Hostinger · REST APIs · Fiverr (freelance delivery)
