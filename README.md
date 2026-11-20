@@ -17,6 +17,8 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **Hub of Blogs** — hubofblogs.com | Professional multi-author blog platform built to scale to 50k–500k users: author earnings per qualified view, full admin panel, fraud detection, withdrawals | PHP, MySQL, JavaScript |
+| **DigiServices** — digiservices.store | Premium digital services store: web & app development, brand design and digital marketing for brands and creators, plus a digital products store — 250+ projects delivered | Web Development, UI/UX, Digital Marketing |
+| **Portfolio** — [live site](https://zarghamullahshah.github.io/Portfolio/) | Personal portfolio website showcasing my projects, skills and services | HTML, CSS, JavaScript |
 | **Community Fitness & Wellness Hub** | Complete 10-phase Salesforce CRM — members, trainers, classes, payments, community site | Salesforce, Apex, LWC, Experience Cloud |
 | **Crick-Vision** | On-device AI cricket umpire (Flutter): detects No-Balls, Wides, Fours & Sixes in real time at 15–25 FPS, zero cloud | Flutter, Kotlin, YOLOv8, MediaPipe |
 | **Restaurant Management System** | Salesforce CRM + public Experience Cloud site for a real restaurant (Lahore Flavours) | Salesforce, Experience Cloud |
@@ -48,6 +50,8 @@
 ### 📫 Connect With Me
 
 - 💼 Fiverr: Salesforce CRM & full-stack web development gigs
+- 🎨 Portfolio: https://zarghamullahshah.github.io/Portfolio/
+- 🛍️ DigiServices: https://digiservices.store
 - 🌐 Blog platform: hubofblogs.com
 - 📍 Pakistan · Working with clients worldwide
 
