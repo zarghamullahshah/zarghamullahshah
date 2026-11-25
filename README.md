@@ -16,6 +16,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **The Copper Kitchen** — [Live demo](https://zarghamullahshah.github.io/restaurant-management-system/) · [Code](https://github.com/zarghamullahshah/restaurant-management-system) | A complete restaurant system that runs entirely in the browser — guest menu with online ordering, table bookings, kitchen display, waiter floor and a manager dashboard. No server, no sign-up | HTML, CSS, JavaScript, Three.js |
 | **Hub of Blogs** — *(launching soon)* | Professional multi-author blog platform built to scale to 50k–500k users: author earnings per qualified view, full admin panel, fraud detection, withdrawals | PHP, MySQL, JavaScript |
 | **DigiServices** — [digiservices.store](https://digiservices.store) | Premium digital services store: web & app development, brand design and digital marketing for brands and creators, plus a digital products store — 250+ projects delivered | Web Development, UI/UX, Digital Marketing |
 | **Portfolio** — [zarghamullahshah.github.io/Portfolio](https://zarghamullahshah.github.io/Portfolio/) | Personal portfolio website showcasing my projects, skills and services | HTML, CSS, JavaScript |
@@ -24,13 +25,27 @@
 | **Restaurant Management System** | Salesforce CRM + public Experience Cloud site for a real restaurant (Lahore Flavours) | Salesforce, Experience Cloud |
 | **Attendance Pro** | Attendance management web app with a clean dashboard UI | JavaScript, HTML, CSS |
 
+### 🔧 Recent Builds
+
+Small, finished tools — each one tested and in its own repo:
+
+| Project | What it does | Built with |
+|---|---|---|
+| [expense-tracker-cli](https://github.com/zarghamullahshah/expense-tracker-cli) | Track spending from the terminal, with categories and monthly totals | Python |
+| [unit-converter](https://github.com/zarghamullahshah/unit-converter) | Length, weight, temperature and more — no dependencies | JavaScript |
+| [php-validation-library](https://github.com/zarghamullahshah/php-validation-library) | Form validation for PHP apps: emails, phones, passwords, ranges | PHP |
+| [bank-account-simulator](https://github.com/zarghamullahshah/bank-account-simulator) | Accounts, deposits, withdrawals and transfers with a full test suite | C++ |
+| [markdown-toc-generator](https://github.com/zarghamullahshah/markdown-toc-generator) | Builds a table of contents for any Markdown file | Python |
+| [csv-to-json-cli](https://github.com/zarghamullahshah/csv-to-json-cli) | Converts CSV files to clean JSON from the command line | JavaScript |
+| [log-analyzer-cli](https://github.com/zarghamullahshah/log-analyzer-cli) | Reads server logs and reports errors, top IPs and traffic spikes | C++ |
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,dart,kotlin,git,github&theme=light" alt="Tech stack: PHP, Laravel, JavaScript, HTML, CSS, MySQL, Flutter, Dart, Kotlin, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,py,cpp,flutter,dart,kotlin,git,github&theme=light" alt="Tech stack: PHP, Laravel, JavaScript, HTML, CSS, MySQL, Flutter, Dart, Kotlin, Git, GitHub" />
 </p>
 
-**Languages:** PHP · JavaScript · HTML/CSS · Apex · SQL · Dart · Kotlin
+**Languages:** PHP · JavaScript · Python · C++ · HTML/CSS · Apex · SQL · Dart · Kotlin
 **Frameworks & Platforms:** Laravel · Salesforce (Admin, Apex, LWC, Experience Cloud) · Flutter · MySQL
 **Tools:** Git & GitHub · Hostinger · REST APIs · Fiverr (freelance delivery)
 
